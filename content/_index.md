@@ -1,7 +1,10 @@
 ---
 banner:
   title: Brainsoft ICT </br> Talent dat werkt
-  
+  image: /images/banner-app.png
+  link:
+    label: Boek een consult
+    href: "#"
 ##brands
 brands:
   - /images/brands/01-colored.png
