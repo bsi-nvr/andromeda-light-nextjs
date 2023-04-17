@@ -5,15 +5,15 @@ draft: false
 
 ## about us
 about_us:
-  subtitle: WHO WE ARE
-  title: Hello, We’re Andromeda Here For Your Help
+  subtitle: Wie zijn we
+  title: Hallo, wij zijn brainsoft ICT, talent dat werkt
   content: Your online Health & Fitness companion that offers free assistance on its Facebook Group and provides quality paid guided personal training packages by and through website. We are the first ever, online manifesto in Bangladesh to make place you will select when you think of getting fit
   image: /images/about/01.jpg
 
 ## our works
 works:
   subtitle: OUR WORKS
-  title: What We Do
+  title: Wat we doen
   list:
     - title: Building A New Class
       content: Decade of engineering under his belt, Jeremie is responsible for technical infrastructure and feature development. In Flow, wherever things just work is understanding developing complex systems
@@ -26,7 +26,7 @@ works:
 
 ## our mission
 mission:
-  subtitle: OUR MISSION
+  subtitle: ONZE MISSIE
   title: Main Vision And Mission Of Our Company
   content: We were freelance designers and developers, constantly finding ourselve deep vague feedback. leaving a notes from the sticky note piece .
   image: /images/about/02.jpg
