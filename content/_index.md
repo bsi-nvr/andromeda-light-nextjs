@@ -1,6 +1,6 @@
 ---
 banner:
-  title: "Andromeda is the most intuitive </br> way to prototype Designs"
+  title: Brainsoft ICT </br> Talent dat werkt
   image: /images/banner-app.png
   link:
     label: Get Premium Version
@@ -21,7 +21,7 @@ brands:
 #features
 features:
   sub_title: SPECIAL FEATURES
-  title: Elements To </br> Get You Started
+  title: Onze Services
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas </br> Werat viverra id et aliquet. vulputate egestas sollicitudin.
   list:
     - icon: 'lock' # feather icon: https://feathericons.com/
