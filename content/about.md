@@ -58,16 +58,16 @@ clients:
 ## members
 our_member:
   subtitle: OUR MEMBERS
-  title: The People Behind
+  title: De mensen achter Brainsoft ICT
   content: We were freelance designers and developers, constantly finding </br> ourselves deep in vague feedback. This made every client and team
   list:
-    - name: Valentin Staykov
+    - name: Harvey Specter
       field: Operations
       image: /images/about/team/01.jpg
-    - name: Bukiakta Bansalo
+    - name: Louis Litt  
       field: Product
       image: /images/about/team/02.jpg
-    - name: Ortrin Okaster
+    - name: Neal Caffrey
       field: Engineering
       image: /images/about/team/03.jpg
 
