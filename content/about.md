@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Over Ons"
 layout: about
 draft: false
 
